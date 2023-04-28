@@ -1,0 +1,19 @@
+.app {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.app__title {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.categories {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+}

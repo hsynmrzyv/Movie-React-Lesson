@@ -1,0 +1,36 @@
+.movie {
+  width: 300px;
+  border: 2px solid #edf2f4;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+.movie__name {
+  font-size: 20px;
+}
+
+.movie__genre {
+  font-size: 14px;
+}
+
+.movie__image {
+  width: 100%;
+}
+
+.movie__image img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.movie__point {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.movie__pointIcon {
+  font-size: 20px;
+  color: #f3ce13;
+}
